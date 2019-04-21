@@ -1,1 +1,1 @@
-# Mercer-University-Mock-up-website
+# Mercer-University-Website
